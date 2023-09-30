@@ -1,4 +1,4 @@
-1. Create a human (Main character) agent.
+1. Create a human (Main Character) agent.
 2. Make it able to move from side to side and jump up and down.
 3. Make dollar bill collectibles and keep track of how many one has collected.
 4. Make a list of weapons depending on the number of dollars.
@@ -7,6 +7,7 @@
 7. Make weapon accessibility from approaching the enemy.
 8. If Main Character comes in contact with thief, then it's game over.
 
-Bonus Step for cool kids only: Look up what Pushing to github is after not being able to pull request the branch, have the only advice be to 
-make a file WITHIN main and make a new branch when I commit changes, and pray there's no difference between this and the HW instructions :]
-(It's me, I'm cool kids)
+Bonus Step for **cool kids** only: Look up what pushing to github is after not being able to pull request the branch, have the only advice be to make a file WITHIN main and make a new branch when I commit changes, and pray there's no difference between this and the HW instructions :]
+(It's me, I'm cool kids.)
+Bonus, bonus step for aforementioned **cool kids** only: Make your issue about the grammar because it was funny to you and you don't even remember what your instructions looked like, only to find that it's already fixed (most likely from your collaborator, but again, you don't remember all too well) and now you don't know what to fix. 
+  Also accidentally make changes and a pull request in the wrong branch, have to close the request, see that your edits are still there and      now it's weird... whoops
