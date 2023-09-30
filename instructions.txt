@@ -1,0 +1,10 @@
+1. Create a human (Main character) agent
+2. Make it able to move from side to side and jump
+3. Make dollar bill collectables and keep track of how many one has collected
+4. Make human theives agents
+5. Make them able to move on their own
+6. If Main Character comes in contact with theif, game over
+
+Bonus Step for cool kids only: Look up what Pushing to github is after not being able to pull request the branch, have the only advice be to 
+make a file WITHIN main and make a new branch when I commit changes, and pray there's no difference between this and the HW instructions :]
+(It's me, I'm cool kids)
